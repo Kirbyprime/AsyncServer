@@ -1,0 +1,11 @@
+C:\Users\ching-wai.chau\Desktop\SocketAsyncServer\bin\Debug\SocketAsyncServer.exe
+C:\Users\ching-wai.chau\Desktop\SocketAsyncServer\bin\Debug\SocketAsyncServer.pdb
+C:\Users\ching-wai.chau\Desktop\SocketAsyncServer\obj\Debug\SocketAsyncServer.csprojResolveAssemblyReference.cache
+C:\Users\ching-wai.chau\Desktop\SocketAsyncServer\obj\Debug\SocketAsyncServer.exe
+C:\Users\ching-wai.chau\Desktop\SocketAsyncServer\obj\Debug\SocketAsyncServer.pdb
+C:\Users\Kirbyprime\Desktop\Stuff\SocketAsyncServer\bin\Debug\SocketAsyncServer.exe
+C:\Users\Kirbyprime\Desktop\Stuff\SocketAsyncServer\bin\Debug\SocketAsyncServer.pdb
+C:\Users\Kirbyprime\Desktop\Stuff\SocketAsyncServer\obj\Debug\SocketAsyncServer.csprojResolveAssemblyReference.cache
+C:\Users\Kirbyprime\Desktop\Stuff\SocketAsyncServer\obj\Debug\SocketAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\Kirbyprime\Desktop\Stuff\SocketAsyncServer\obj\Debug\SocketAsyncServer.exe
+C:\Users\Kirbyprime\Desktop\Stuff\SocketAsyncServer\obj\Debug\SocketAsyncServer.pdb

@@ -1,0 +1,5 @@
+C:\Users\ching-wai.chau\Desktop\SocketClientAsyncTester\bin\Debug\SocketClientAsyncTester.exe
+C:\Users\ching-wai.chau\Desktop\SocketClientAsyncTester\bin\Debug\SocketClientAsyncTester.pdb
+C:\Users\ching-wai.chau\Desktop\SocketClientAsyncTester\obj\Debug\SocketClientAsyncTester.csprojResolveAssemblyReference.cache
+C:\Users\ching-wai.chau\Desktop\SocketClientAsyncTester\obj\Debug\SocketClientAsyncTester.exe
+C:\Users\ching-wai.chau\Desktop\SocketClientAsyncTester\obj\Debug\SocketClientAsyncTester.pdb
